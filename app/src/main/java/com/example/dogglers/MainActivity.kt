@@ -34,6 +34,7 @@ class MainActivity : AppCompatActivity() {
         // Setup view binding
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        supportActionBar!!.hide()
 
         // Launch the VerticalListActivity on verticalBtn click
         binding.verticalBtn.setOnClickListener { launchVertical() }

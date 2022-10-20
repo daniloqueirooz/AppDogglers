@@ -55,9 +55,9 @@ class DogCardAdapter(
 
 
         holder.dogAge.text = "Idade:${item.age}"
-        // holder.dogAge.text = context?.resources?.getString(R.id.Age, item.age)
+        //holder.dogAge.text = context?.resources?.getString(R.id.Age, item.age)
 
-        holder.dogHobbies.text = item.hobbies
+        holder.dogHobbies.text = "Hobbis:${item.hobbies}"
 
 
     }
