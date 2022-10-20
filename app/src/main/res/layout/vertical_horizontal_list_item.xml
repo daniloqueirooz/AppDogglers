@@ -2,7 +2,6 @@
 
 <com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_margin="8dp"
@@ -15,7 +14,7 @@
         android:layout_gravity="center">
 
         <ImageView
-            android:id="@+id/tzeitel"
+            android:id="@+id/Leroy"
             android:layout_width="wrap_content"
             android:layout_height="194dp"
             android:src="@drawable/tzeitel"
@@ -36,7 +35,7 @@
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/tzeitel" />
+            app:layout_constraintTop_toBottomOf="@id/Leroy" />
 
         <TextView
             android:id="@+id/Age"
@@ -54,13 +53,14 @@
             android:id="@+id/Hobbis"
             android:layout_width="147dp"
             android:layout_height="22dp"
+            android:layout_marginStart="180dp"
+            android:layout_marginTop="20dp"
             android:text="@string/dog_hobbies"
             android:textColor="@color/black"
             android:textSize="20sp"
             android:textStyle="normal"
-            tools:ignore="MissingConstraints"
-            tools:layout_editor_absoluteX="248dp"
-            tools:layout_editor_absoluteY="250dp" />
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/Name" />
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>
