@@ -1,7 +1,7 @@
 Dogglers - Código de início
 =====================================
 
-Projeto inicial realizado juntamento ao Codelab da Google para aperfeiçoar mais os meus conhecimentos. 
+Projeto inicial realizado juntamente ao Codelab da Google para aperfeiçoar mais os meus conhecimentos. 
 
 ### 💻O que eu aprendi?:
 
