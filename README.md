@@ -5,9 +5,9 @@ Projeto inicial realizado juntamente ao Codelab da Google para aperfeiçoar mais
 
 ### 💻O que eu aprendi?:
 
-Nesse projeto eu aprendi a mexer com ConstraintLayouts, a crir uma XML do 0, importar imagens pra a Drawable, entender sobre o Adapter, DataSource, e a criar uma lógica usando When.
+Nesse projeto eu aprendi a mexer com ConstraintLayouts, a crir uma XML do 0, importar imagens para a Drawable, entender sobre o Adapter, DataSource, a criar uma lógica usando When, usando versionamento de código com Git, criando novas features. 
 
-Projeto com 3 navegaçõe de tela: Vertical - Horizontal - GRID 
+Projeto com 3 navegações de tela: Vertical - Horizontal - GRID 
 
 ## Tecnologias 💻
 ![Kotlin](https://img.shields.io/badge/-Kotlin-%230077B5?style=for-the-badge&logo=kotlin&logoColor=white&color=a13bdb)&nbsp;![Android](https://img.shields.io/badge/-Android-%230077B5?style=for-the-badge&logo=android&logoColor=white&color=GREEN)&nbsp;
